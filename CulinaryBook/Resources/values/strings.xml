@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CulinaryBook</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+	<string name="ingredientCategory">Ingredient category</string>
+	<string name="btnAdd">Add</string>
+	<string name="ingredientCategoryAddText">Add ingredient category</string>
+</resources>
